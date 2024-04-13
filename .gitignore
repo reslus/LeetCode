@@ -1,3 +1,2 @@
-master/contest/max_op_same_score_2.py
-master/contest/max_op_same_score.py
-master/contest/ops_to_empty_str.py
+master/contest/*
+master/unsolved/*
